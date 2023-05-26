@@ -1,8 +1,5 @@
 # 🍭🧋🍹JuiceMaker🧃🥛🍬
 
-<Img src = "https://hackmd.io/_uploads/H12Bxv4Sn.png" width="700"/>
-
-
 ## 📖 목차
 
 1. [소개](#1.)
